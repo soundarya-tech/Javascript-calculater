@@ -1,1 +1,1 @@
-# github-calculater
+# javascript_calculater
